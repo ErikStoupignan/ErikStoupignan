@@ -1,5 +1,4 @@
-# https-github.com-ErikStoupignan
-https://www.canva.com/design/DAFJLOSVefc/OiZ6v2HubJviAsI5pbUa0w/edit?utm_content=DAFJLOSVefc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Hi! I'm Erik Stoupignan. 
+<img src="https://user-images.githubusercontent.com/106561762/184467975-617ad0f6-6ca2-4579-9020-8b1979fa663b.gif" style=" width= 2px ">
+
 
