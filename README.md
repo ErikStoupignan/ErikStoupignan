@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Erik Stoupignan, a Electronic and Communications Engineer + Full-Stack Developer 👨‍💻🌳</div>  
+### <div align="center">I'm Erik Stoupignan, an Electronic and Communications Engineer + Full-Stack Developer 👨‍💻🌳</div>  
   
 
 - 🔭 Working on the biggest project of my life. 🚀  
